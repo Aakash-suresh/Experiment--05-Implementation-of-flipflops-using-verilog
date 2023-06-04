@@ -129,9 +129,9 @@ endmodule
 
 ```
 ### RTL LOGIC FOR FLIPFLOPS 
-![output](o1.png)
+![Output](o1.png)
 ### TIMING DIGRAMS FOR FLIP FLOPS 
-![output](o2.png)
+![Output](o2.png)
 
 
 ### PROGRAM 2(D FLIP FLOP)
@@ -151,14 +151,14 @@ endmodule
 
 ```
 ### RTL LOGIC FOR FLIPFLOPS 
-![output](o3.png)
+![Output](o3.png)
 
 
 
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
-![output](o4.png)
+![Output](o4.png)
 
 
 
@@ -179,10 +179,10 @@ endmodule
 
 ```
 ### RTL LOGIC FOR FLIPFLOPS 
-![output](o5.png)
+![Output](o5.png)
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
-![output](o6.png)
+![Output](o6.png)
 
 
 
@@ -204,10 +204,10 @@ endmodule
 
 ```
 ### RTL LOGIC FOR FLIPFLOPS 
-![output](o7.png)
+![Output](o7.png)
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
-![output](o8.png)
+![Output](o8.png)
 
 
 
